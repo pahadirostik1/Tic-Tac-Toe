@@ -9,7 +9,7 @@ body{
 }
 h1{
     height: 9vmin;
-    padding-top:8vmin;
+    padding-top:4vmin;
 }
 .container{
     height:70vh;
@@ -18,7 +18,7 @@ h1{
     align-items: center;
 }
 .game{
-    height:60vmin;
+    height:70vmin;
     width:60vmin;
     display: flex;
     flex-wrap:wrap;
@@ -58,7 +58,7 @@ h1{
     font-size: 5vmin;
 }
 .message_displayer{
-    height:14vmin;
+    height:10vmin;
 }
     
 .hide{
