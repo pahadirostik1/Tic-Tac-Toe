@@ -7,6 +7,10 @@ body{
     background-color: #548687;
     text-align: center;
 }
+h1{
+    height: 9vmin;
+    padding-top:8vmin;
+}
 .container{
     height:70vh;
     display: flex;
